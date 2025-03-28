@@ -1,0 +1,12 @@
+{
+    "description": "LessSMP",
+    "repo": "https://github.com/is-a-dev/docs",
+    "owner": {
+        "username": "_discord.lesstrace",
+        "email": "johnnk3001@gmail.com"
+    },
+    "record": {
+        "TXT": ["dh=c259714568dc58eded92f42c88a5a81d5ea69e96"]
+    },
+    "proxied": true
+}
