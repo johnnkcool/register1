@@ -1,0 +1,20 @@
+{
+    "description": "LessSMP",
+    "repo": "https://github.com/is-a-dev/docs",
+    "owner": {
+        "username": "lesstrace",
+        "email": "johnnk3001@gmail.com"
+    },
+    "record": {
+        "SRV": [
+        {
+            "priority": 0,
+            "weight": 5,
+            "port": 25577,
+            "target": "lesstrace.is-a.dev"
+        }
+    ],
+        "A": ["51.195.222.254"]
+    },
+    "proxied": true
+}
